@@ -1,1 +1,6 @@
-# atodeneApp
+# atodeneAPP
+
+##ref
+https://github.com/r-park/todo-react-redux
+
+
